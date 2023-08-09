@@ -1,0 +1,5 @@
+name: TagsPlugin
+version: '${project.version}'
+main: ignaproo.tagsplugin.plugin.main
+depend: [WorldEdit]
+api-version: '1.20'
